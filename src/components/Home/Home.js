@@ -20,7 +20,7 @@ function Home() {
               <h2 className="main-name">Welcome to Maya Pik's Magical Kingdom</h2>
               </h1>
 
-              <div style={{ padding: 50, textAlign: "left" }}>
+              <div style={{ padding: 50, textAlign: "left", marginBottom:15 }}>
                 <Type />
               </div>
             </Col>

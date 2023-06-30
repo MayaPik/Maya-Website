@@ -12,12 +12,17 @@ function CookCode() {
       <h1 className="project-heading">
         3D Coding Game <strong className="purple"> Cook Code <CgGames/> </strong>
         </h1>
-        <p style={{ color: "white", width:"35vw", margin:"auto"}} >
+        <p style={{ color: "white", maxWidth:"50rem", margin:"auto", paddingTop:10}} >
         I am developing a Unity game called "Cook Code," aimed at teaching kids how to code in a fun and interactive way
         This game introduces young players to programming concepts 
         while they help the kitchen crew to find efficient ways to do their roles.</p>
         <br></br>
-    <iframe src="https://itch.io/embed-upload/8182306?color=000000" title="hello" allowFullScreen width="1000" height="700" allow="autoplay"><a href="https://mayapik.itch.io/cook-code">Play Cook Code on itch.io</a></iframe>
+        <div className="iframe-container">
+      <iframe src="https://itch.io/embed-upload/8182306?color=000000" title="hello" allowFullScreen width="1000" height="700"></iframe>
+    </div>
+    <p style={{color:"white"}}>
+      You can play Cook Code by visiting the following link on your browser: <a href="https://mayapik.itch.io/cook-code" className="purple">Play Cook Code on itch.io</a>
+    </p>
       <Particle />
       
       <Container>

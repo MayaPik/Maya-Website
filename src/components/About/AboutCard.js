@@ -6,12 +6,11 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
+          <p style={{ textAlign: "start" }}>
 
             Hi! My name is <span className="purple"> Maya Pik </span> and I am
             from <span className="purple"> Tel Aviv, Israel.</span>
             <br/>
-
             <br /> I am a full Stack & Unity developer,  with a strong passion for innovation and problem solving.
             <br />
             <br/>
