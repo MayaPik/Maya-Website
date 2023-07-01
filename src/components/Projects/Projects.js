@@ -61,8 +61,8 @@ function Projects() {
               imgPath="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZ2eGJrenFqaGlyZGVlcnRyNXpkZzk2cjRkMXh3bXk2NzA1aWRxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cR6kCFRChtxZ4uSNKn/giphy.gif"
               title="In The Dark"
               description="Created realistic terrains, assets, and particle systems to enhance the immersive gaming experience. Utilized Raycast technology to improve realism and create engaging combat scenarios."
-              ghLink="https://mayapik.itch.io/in-the-dark"
-              demoLink="https://github.com/MayaPik/In-The-Dark-Game"
+              ghLink="https://github.com/MayaPik/In-The-Dark-Game"
+              demoLink="https://mayapik.itch.io/in-the-dark"
             />
           </Col>
           <Col md={4} className="project-card">
