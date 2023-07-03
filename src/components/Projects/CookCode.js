@@ -18,7 +18,7 @@ function CookCode() {
         while they help the kitchen crew to find efficient ways to do their roles.</p>
         <br></br>
         <div className="iframe-container">
-      <iframe src="https://itch.io/embed-upload/8182306?color=000000" title="hello" allowFullScreen width="1000" height="700"></iframe>
+      <iframe src="https://itch.io/embed-upload/8219031?color=000000" title="hello" allowFullScreen width="1000" height="700"></iframe>
     </div>
     <p style={{color:"white"}}>
       You can play Cook Code by visiting the following link on your browser: <a href="https://mayapik.itch.io/cook-code" className="purple">Play Cook Code on itch.io</a>
