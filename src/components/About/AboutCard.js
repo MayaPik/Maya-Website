@@ -17,7 +17,7 @@ function AboutCard() {
             Additionally, I am an exhibiting artist with artistic background which honed my ability to translate creative vision into compelling results.
             <br />
             <br />
-            With my skills constantly improving, I found myself drawn to the world of game development,I possess a true passion for creating engaging gameplay experiences.
+            With my skills constantly improving, I possess a true passion for devloping and creating engaging experiences.
             </p>
             <br />
 
