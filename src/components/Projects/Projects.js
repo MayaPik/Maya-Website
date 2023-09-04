@@ -52,7 +52,7 @@ function Projects() {
               title="Picking Up Time"
               description="After-school childcare setting. With this application, parents can easily set the pickup time for their child, and guides can efficiently manage and track the schedule, including any changes. Managers can also have a clear overview of the schedule and make necessary updates."
               ghLink="https://github.com/MayaPik/Picking-Up-Time"
-              demoLink=https:"//www.loom.com/share/434a3c4f3387428f8a9be0600cbd9e93"
+              demoLink="https://www.loom.com/share/434a3c4f3387428f8a9be0600cbd9e93"
             />
           </Col>
 
