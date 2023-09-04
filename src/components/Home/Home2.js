@@ -24,13 +24,13 @@ function Home2() {
             <p className="home-about-body">
             From HTML CSS to JS and React, my programming journey began with a YouTube video on "How to become a full stack developer" that I stumbled upon while taking a break from painting. As my skills improved, I found myself drawn to the world of game development.
               <br />
-              <br /> During my programming studies I found my true passion: 
+              <br /> During my programming studies I found a follow up passion: 
               <i>
-                <b className="purple"> Creating interactive worlds and engaging gameplay experiences for players.</b>
+                <b className="purple"> Creating interactive worlds and engaging meaningful experiences.</b>
               </i>
               <br />
               <br />
-              <b className="purple">As a game developer, I'm always looking to learn new techniques and tools to improve my skills.</b> I would love to connect with Unity developers and other game developers who share my passion and collaborate on exciting projects.
+              <b className="purple">As a developer, I'm always looking to learn new techniques and tools to improve my skills.</b> I would love to connect with other developers who share my passion and collaborate on exciting projects.
               
             </p>
           </Col>
