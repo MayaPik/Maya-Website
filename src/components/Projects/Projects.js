@@ -22,7 +22,7 @@ function Projects() {
               title="Disneyland average wait time"
               description="A Back-end of a trip-planning application for Disneyland. I am creating an API that displays the average wait time for each ride at Disneyland Paris"
               ghLink="https://github.com/MayaPik/disneyAVGwaitingTime"
-              demoLink="https://disney-avg-waiting-times.herokuapp.com/avg"
+              demoLink="https://www.loom.com/share/4857b2e9ebfb462692b9f9987d5234a4"
             />
           </Col>
 
@@ -52,7 +52,7 @@ function Projects() {
               title="Picking Up Time"
               description="After-school childcare setting. With this application, parents can easily set the pickup time for their child, and guides can efficiently manage and track the schedule, including any changes. Managers can also have a clear overview of the schedule and make necessary updates."
               ghLink="https://github.com/MayaPik/Picking-Up-Time"
-              demoLink="https://welcome.pickinguptime.com/"
+              demoLink=https:"//www.loom.com/share/434a3c4f3387428f8a9be0600cbd9e93"
             />
           </Col>
 
